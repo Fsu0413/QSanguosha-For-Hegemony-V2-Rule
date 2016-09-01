@@ -7,5 +7,5 @@
 [游戏用语]()
 [游戏流程]()
 [游戏用牌]()
-[游戏？？牌](GameCard/index.md)
+[游戏牌面](GameCard/index.md)
 [武将牌](General/index.md)
