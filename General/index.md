@@ -12,7 +12,7 @@
 [张辽](standard/wei/zhangliao.md)
 [许褚](standard/wei/xuchu.md)
 [郭嘉](standard/wei/guojia.md)
-[甄姬](standard/wei/zhenji.md)
+[甄姬](standard/wei/zhen.md)
 [夏侯渊](standard/wei/xiahouy.md)
 [张郃](standard/wei/zhanghe.md)
 [徐晃](standard/wei/xuhuang.md)
